@@ -1,2 +1,7 @@
 # Greedy_Astar
-Greedy and A* (A star) in Python 3
+IA Search Tree algorithms
+Greedy and A* in Python 3
+Used in australian cities linked by the rule:
+
+ID %2 == 0 -> neighbor -> ID + 2 and ID-1
+ID %2 == 1 -> neighbor -> ID +2 and ID + 1
